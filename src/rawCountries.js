@@ -1283,7 +1283,8 @@ const rawCountries = [
     'United Arab Emirates',
     ['middle-east'],
     'ae',
-    '971'
+    '971',
+    '(...) ...-....'
   ],
   [
     'United Kingdom',
