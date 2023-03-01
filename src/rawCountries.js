@@ -1284,7 +1284,14 @@ const rawCountries = [
     ['middle-east'],
     'ae',
     '971',
-    '(...) ...-....'
+    '... . ... ...'
+  ],
+  [
+    'United Arab Emirates2',
+    ['middle-east2'],
+    'aee',
+    '971',
+    '... ... ... ...'
   ],
   [
     'United Kingdom',
@@ -1344,7 +1351,15 @@ const rawCountries = [
     'Yemen',
     ['middle-east'],
     'ye',
-    '967'
+    '967',
+    '... ... ... ...'
+  ],
+  [
+    'Yemen2',
+    ['middle-east'],
+    'yee',
+    '967',
+    '... . ... ...'
   ],
   [
     'Zambia',
